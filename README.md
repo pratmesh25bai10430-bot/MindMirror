@@ -16,8 +16,9 @@ It also uses a very small Naive Bayes model to detect emotional tone (positive/n
 
 ## How To Setup And Run
 If using git:
-git clone https://github.com/pratmesh25bai10430-bot/MindMirror
-cd MindMirror
+`git clone https://github.com/pratmesh25bai10430-bot/MindMirror`
+
+`cd MindMirror`
 
 Or just download zip and extract it
 
